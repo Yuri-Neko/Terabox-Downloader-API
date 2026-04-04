@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Terabox%20Downloader%20API&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fast%20⚡%20Direct%20Links%20Generator%20for%20Terabox&descAlignY=55&descAlign=50" />
+</p>
+
+<p align="center">
+  🚀 Convert Terabox Links to Direct Download Links Instantly  
+  ⚡ High Speed • 🔗 API Ready • 🛠 Developer Friendly
+</p>
 
 # 📁 Terabox Video Downloader API by Telegram: @bizft — Cloudflare Worker
 
