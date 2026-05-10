@@ -1,4 +1,4 @@
-name = "tera-apiss"
+name = "terabox-dl-aoi"
 main = "src/worker.js"
 compatibility_date = "2025-04-01"
 compatibility_flags = []
